@@ -14,5 +14,5 @@ Files used include:
 > new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.freecodecamp.org/forum/t/how-to-write-a-markdown-file-for-github-using-atom/19522
 
