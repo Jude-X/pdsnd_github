@@ -165,7 +165,7 @@ def station_stats(df):
                                    df['End Station'])
     most_common_start_end_combination = str(df['Start-End Combination']
                                             .mode()[0])
-    print("The most common start-end combination of stations is: " + most_common_start_end_combination)
+    print("The most common start and end combination of stations is: " + most_common_start_end_combination)
 
     print("\nThis took {} seconds.".format((time.time() - start_time)))
     print('-'*40)
